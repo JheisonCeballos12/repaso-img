@@ -35,12 +35,14 @@ $listNavegacion=array("clases_motos/yamaha.php","clases_motos/suzuki.php","clase
       </ul>
     </nav>
   </header>
-  
-  <header>
-    <h1>aqui tenemos una pequeña presentacion de nuestras motos disponibles</h1>
-    <img src="imagenes/body/img body.jpg" alt="logo_moto">
-    <p>La moto es emoción, libertad y equilibrio. Una historia de amor que no termina nunca. Más allá de un medio de transporte o un deporte, alternativa de ocio o actividad social, la moto representa la cara visible de un estilo de vida diferente, libre y opuesta a lo convencional.</p>
-  </header>
+
+  <section id="Inicio" class="Inicio ">
+   <header>
+     <h1>aqui tenemos una pequeña presentacion de nuestras motos disponibles</h1>
+     <img src="imagenes/body/img body.jpg" alt="logo_moto">
+     <p>La moto es emoción, libertad y equilibrio. Una historia de amor que no termina nunca. Más allá de un medio de transporte o un deporte, alternativa de ocio o actividad social, la moto representa la cara visible de un estilo de vida diferente, libre y opuesta a lo convencional.</p>
+   </header>
+  </section>
 </main>
 </body>
   

@@ -1,4 +1,27 @@
-
-body{
-    background-color: aquamarine;
+/* Reset de estilos para eliminar márgenes y paddings predeterminados */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
 }
+
+body {
+    margin: 0;
+    display: flex;
+    min-height: 100vh;
+    background-color: #eaeaea;
+}
+
+/* Estilo del sidebar (barra lateral) */
+.sidebar{
+    background: linear-gradient(135deg, #99d43a, #292929);
+    
+}
+
+
+.Inicio{
+    background-color: black;
+    background: linear-gradient(135deg, #1b1b1b, #292929);
+}
+
