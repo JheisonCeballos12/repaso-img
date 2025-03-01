@@ -106,7 +106,7 @@ ARRANQUE ELÉCTRICO Y DE PEDAL.
 PARRILLA DE CARGA HASTA 7KG.";
 
 $suzukigixxer150="suzuki gixxer150";
-$imgsuzukigixxer150="..//imagenes\suzuki\gixxer-150.png";
+$imgsuzukigixxer150="..//imagenes/suzuki/gixxer-150.png";
 $preciosuzukigixxer150="PRECIO: 10.890.000";
 $descripcionsuzukigixxer150="La Suzuki Gixxer 150 es una motocicleta de cuatro tiempos, con un motor de un cilindro. Tiene un diseño deportivo y moderno, con un carenado aerodinámico. 
 Motor 
@@ -122,7 +122,7 @@ Tecnología de alto rendimiento SEP
 Otros detalles Luz stop con tecnología LED, Faro con tecnología LED, Diseño de carenado naked. ";
 
 $suzukivstrom250="suzuki vstrom250";
-$imgsuzukivstrom250="..//imagenes\suzuki\v strom 250.png";
+$imgsuzukivstrom250="..//imagenes/suzuki/vstrom 250.png";
 $preciosuzukivstrom250="PRECIO: 26.761.000";
 $descripcionsuzukivstrom250="La Suzuki V-Strom 250 es una motocicleta de doble propósito que puede usarse para recorrer la ciudad, carreteras y zonas de difícil acceso. Cuenta con un motor monocilíndrico de 4 tiempos y 250 cc. 
 Características 
@@ -145,7 +145,7 @@ Faro octagonal con luces LED en tres filas, lo que permite mayor visibilidad en 
 Carcasa que rodea el faro está diseñada para parecerse a una linterna con acabado anodizado duro ";
 
 $susukivstrom650="susukivstrom650";
-$imgsusukivstrom650="..//imagenes\suzuki\v-strom-650-xt.png";
+$imgsusukivstrom650="..//imagenes\suzuki/v-strom-650-xt.png";
 $preciosusukivstrom650="PRECIO: 49.850.000";
 $descripcionsusukivstrom650="La Suzuki V-Strom 650 es una trail de media cilindrada que apenas ha cambiado en los últimos años, salvo la introducción de colores nuevos y la homologación a la Euro5 recibida en 2021. En 2024 estrena nuevos colores.
 El propulsor utilizado por la V-Strom 650 es el conocido bicilíndrico en V a 90º que rinde una potencia de 70 CV a 8.800 rpm y que cuenta con algunas ayudas electrónicas, como el control de tracción con tres modos, uno de ellos enfocado al off-road, o el Low RPM Assist, un sistema que se encarga de elevar las revoluciones del motor a muy baja velocidad velocidad para facilitar la conducción en ciudad y en arrancadas.
